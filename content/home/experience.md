@@ -17,7 +17,7 @@ subtitle:
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Mar 2012
 
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
@@ -25,22 +25,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: GenCoin
+- company: Korea Workers's compensation & Wellfare Service
   company_url: ""
-  date_end: ""
-  date_start: "2017-01-01"
+  date_end: "2013-09-30"
+  date_start: "2012-03-01"
   description: |-
     Responsibilities include:
-    * Analysing
-    * Modelling
-    * Deploying
-  location: California
-  title: CEO
-- company: University X
+    * Occupational Disese Compensation
+    * Research of Occupational Cancer
+    * Workers compensation
+  location: Korea
+  title: Researcher
+- company: Yonsei University
   company_url: ""
-  date_end: "2016-12-31"
-  date_start: "2016-01-01"
-  description: Taught electronic engineering and researched semiconductor physics.
-  location: California
-  title: Professor
+  date_end: ""
+  date_start: "2013-09-01"
+  description: Occupational Health, Gig economy worker, Occupational Big Data Cohort
+  location: Korea
+  title: Asso. Professor
 ---

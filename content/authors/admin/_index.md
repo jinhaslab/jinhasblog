@@ -1,48 +1,48 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Occupational Health.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Medicine
+    institution: Yonsei University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+
+  - course: BSc in Medicine
+    institution: Yonsei University Wonju College of Medicine
+    year: 2007
+email: "flyinyou@yonsei.ac.kr"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Occupational Health, social determinant
+- Gig economy worker
+- Occupational Big data cohort
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: YONSEI UNIVERSITY COLLEGE OF MEDICINE
+  url: https://medicine.yonsei.ac.kr
+role: Professor of Medicine
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/flyinyou
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: http://scholar.google.com/citations?hl=en&user=FzE_ZWAAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jinhaslab
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/jin-ha-yoon-a2040343/
 superuser: true
-title: Nelson Bighetti
+title: Jin-Ha Yoon
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Yoon is a physician board certified in occupational and environmental medicine. He is working to finding relationships between occupational disease and work-place environmental. Dr. Yoon’s group made significant contributions in the field of occupational diseases in Korea. The current projects are aimed to elucidate the nature of 1) occupational diseases, 2) social determinant of occupational health., and 3) gig economy workers’ occupational health. 
+He also devotes his effort to public health and statistics in epidemiology. He got fund from government to establish the occupational health big data, one is personal ID based big data of all Korean workers (exposure data and health insurance data), other is common data model using worker’s annual health examination including chest X-ray from 9 major hospitals.
+He published more than 100 papers on international journals, more than 50 papers on SCI(E) international journal as 1st author or corresponding author. (linked in Google scholar,
+http://scholar.google.com/citations?hl=en&user=FzE_ZWAAAAAJ)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/jinha_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
