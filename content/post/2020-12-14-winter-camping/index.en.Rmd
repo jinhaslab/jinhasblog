@@ -1,0 +1,30 @@
+---
+title: winter camping
+author: jinha
+date: '2020-12-14'
+slug: winter-camping
+categories:
+  - Camping
+tags:
+  - winter camping
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-14T21:35:23+09:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+ I started winter camping last week. My family prepared winter camping during this COVID-19 pandemics. <br>
+ We could not go anywhere. The corona blue came closer and closer to us from summer season. My 12 years old boy and 10 years old girl wanted to go outside. Yes we decided to go winter camping.  <br>
+ It takes a lots of time to put up a tent in winter season. So, we tried to find camping site which allow us to keep tent even after we come back home. We can just go camping site and come back without take down a tent. <br>
+ Can you find us?
+![camping site](tent1.jpg) 
+ Here am I!
+![camping site 2](tent2.jpg)
+ Yes We found perfect social distancing place in such COVID19 pandemic. There are no one except us!. <br>
+ Now I ordered snow sledding toys. I am looking forword next weekend!

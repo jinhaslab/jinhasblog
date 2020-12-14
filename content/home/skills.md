@@ -25,11 +25,17 @@ subtitle = ""
   icon_pack = "fas"
   name = "Big Data"
   description = "70%"  
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "python"
+  description = "10%" 
   
 [[feature]]
   icon = "tent"
   icon_pack = "custom"
-  name = "Camping and nap"
+  name = "Camping & nap"
   description = "100%!"
 
 # Uncomment to use emoji icons.
